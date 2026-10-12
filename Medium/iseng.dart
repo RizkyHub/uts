@@ -2,8 +2,8 @@ import 'dart:io';
 
 void main() {
   print('==================================================');
-  print('     PROGRAM SELEKSI KELAYAKAN BEASISWA           ');
-  print('               (LEVEL: MEDIUM)                    ');
+  print('     PROGRAM SELEKSI KELAYAKAN BEASISWA JOKOWI          ');
+  print('               (LEVEL: MEDIUM)');
   print('==================================================');
   print('Syarat Penerima Beasiswa:');
   print('- IPK minimal 3.50');
