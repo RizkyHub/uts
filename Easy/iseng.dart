@@ -2,7 +2,7 @@ import 'dart:io';
 
 void main() {
   print('==============================================');
-  print('       PROGRAM MENENTUKAN BILANGAN TERBESAR   ');
+  print('       PROGRAM MENENTUKAN BILANGAN TERBESAR JOKOWI   ');
   print('                  (LEVEL: EASY)               ');
   print('==============================================');
 
